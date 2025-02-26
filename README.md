@@ -1,5 +1,8 @@
 # Road Accident Dashboard
 
+![Road_Accident_Dashboard](https://github.com/user-attachments/assets/0608e252-df21-40bc-ad3c-624a0937cee6)
+
+
 ## Project Overview
 This project aims to develop a Road Accident Dashboard for the years 2011 and 2022 to provide key insights into accident trends and patterns.
 
